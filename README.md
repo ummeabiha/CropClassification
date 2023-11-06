@@ -1,5 +1,5 @@
-# CropClassification
+# Crop Classification
 Crop Detection and Classification Using TensorFlow, PyTorch, and CNN Model.
 
-#Dataset Link
+# Dataset Link
 https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/
