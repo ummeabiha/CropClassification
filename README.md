@@ -16,7 +16,6 @@ The goal of this project is to build and evaluate deep learning models for **cro
 * **Frameworks:** TensorFlow, PyTorch
 * **Model:** CNN (Convolutional Neural etwork)
 * **Tools:** NumPy, Pandas, Matplotlib, Scikit-learn, TorchVision, TensorFlow Datasets
-* 
 ---
 
 ## 🚀 Steps in the Workflow
